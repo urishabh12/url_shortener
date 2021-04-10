@@ -67,5 +67,5 @@ localhost:6001/api/unique_code/create
 
 ## Todo
 
-[] Add Message Queue Logic
-[] Add Sharding Logic (Multiple database nodes and consistent hashing)
+- [ ] Add Message Queue Logic
+- [ ] Add Sharding Logic (Multiple database nodes and consistent hashing)
